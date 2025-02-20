@@ -30,13 +30,21 @@ This Python script finds all possible ways to insert the operators `+`, `-`, or 
 
 2. Run the script:
    ```bash
+<<<<<<< HEAD
    python sum_to_200.py
+=======
+   python3 main.py
+>>>>>>> 232a915 (initial commit)
    ```
 
 ## File Structure
 
 ```
 repo/
+<<<<<<< HEAD
 │── sum_to_200.py   # Main script
+=======
+│── main.py   # Main script
+>>>>>>> 232a915 (initial commit)
 │── README.md       # This documentation
 ```
